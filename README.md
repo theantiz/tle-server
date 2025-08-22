@@ -40,5 +40,7 @@ TLE Server chronicles my journey from struggling with Time Limit Exceeded (TLE) 
   - Applying computer networks theory in practice
 
 ---
+Author: Jay Chothiyawala
+---
 
 TLE Server is not just a project—it’s a practical bridge connecting algorithmic problem solving with real-world system design and network programming skills.
